@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Perfect Scrollbar */
+.scrollbar-container {
+  position: relative;
+  height: 100%;
+}
+
+/* Other existing styles... */
